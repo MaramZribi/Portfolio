@@ -1,16 +1,16 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
+import maramPDF from "../../../src/maramZribiCV2024.pdf"
+import logo from "../../logo.png"
 
 const Header = ({ toggle }) => {
-  const handleResumeClick = () => {
-    window.open('/resume.html', '_blank', 'noopener,noreferrer');
-  };
+ 
   return (
     <div className="Container" style={{ padding: 0 }}>
       <Nav>
         <Logo to="/">
           <img
-            src="/logo.png"
+            src={logo}
             alt="logo"
           />
         </Logo>
@@ -26,9 +26,14 @@ const Header = ({ toggle }) => {
           </NavLink>
         </NavMenu>
         <NavBtn>
-        <button className="btn PrimaryBtn" onClick={handleResumeClick}>
+          <a
+            className="btn PrimaryBtn"
+            href={maramPDF}
+            target="_blank"
+         
+          >
             Resume
-          </button>
+          </a>
         </NavBtn>
         <Bars onClick={toggle} />
       </Nav>

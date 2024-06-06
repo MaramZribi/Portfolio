@@ -1,7 +1,14 @@
 // --------------------------------------- Project List
+import blog from "../../src/blog.png"
+import hotel from "../../src/hotel.png"
+import trading from "../../src/trading.png"
+import taskapp from "../../src/blog.png"
+import page11 from "../../src/page11.png"
+import web from "../../src/web.png"
+import ykte from "../../src/ykte-feature-graphic.png"
 export const ProjectList = [
   {
-    img: `${process.env.PUBLIC_URL}/ykte-feature-graphic.png`,
+    img: {ykte},
     title: "TuniTrek",
     description:
       "a MERN stack booking platform where users can book guided tours to explore various regions of Tunisia.",
@@ -19,7 +26,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: `${process.env.PUBLIC_URL}/hotel.png`,
+    img: {hotel},
     title: "HotelManagementSystem",
     description:
       "An intuitive hotel management system, featuring a user interface to optimize the management of reservations, guests, rooms, and staff.",
@@ -28,7 +35,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: `${process.env.PUBLIC_URL}/web.png`,
+    img: {web},
     title: "Task Management Project",
     description:
       "A J2EE application to aid project managers in project planning",
@@ -37,7 +44,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: `${process.env.PUBLIC_URL}/taskapp.png`,
+    img: {taskapp},
     title: "ToDo App",
     description:
       "A robust To-Do List application using Flutter and Firebase, featuring real-time task synchronization across devices.",
@@ -46,7 +53,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: `${process.env.PUBLIC_URL}/blog.png`,
+    img: {blog},
     title: "Blog",
     description:
       "Implementation of essential functionalities, including user management with different roles and authentication.",
@@ -55,7 +62,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: `${process.env.PUBLIC_URL}/page11.png`,
+    img: {page11},
     title: "Core Delivery App with Supabase Authentication",
     description:
       "A delivery app focused on the core functionality of order management and user interaction. The app uses Supabase for authentication, ensuring secure and efficient user login and registration.",
@@ -64,7 +71,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: `${process.env.PUBLIC_URL}/trading.png`,
+    img: {trading},
     title: "Trading app",
     description:
       "Design and development of a trading simulator.",
