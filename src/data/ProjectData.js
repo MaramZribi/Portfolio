@@ -8,7 +8,7 @@ import web from "../../src/web.png"
 import ykte from "../../src/ykte-feature-graphic.png"
 export const ProjectList = [
   {
-    img: {ykte},
+    img: "https://files.oaiusercontent.com/file-levPVHcFYvPr0u9YATCoKanK?se=2024-06-06T18%3A33%3A39Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfef69574-26fe-41a2-b88c-fcc45186946d.webp&sig=92sHToffGmDWQMMNnzUcyC1sxIYYLwca2RCEgwh70X8%3D",
     title: "TuniTrek",
     description:
       "a MERN stack booking platform where users can book guided tours to explore various regions of Tunisia.",
