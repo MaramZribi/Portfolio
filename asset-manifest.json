@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.8c0cfc84.css",
-    "main.js": "/Portfolio/static/js/main.10f3d274.js",
+    "main.js": "/Portfolio/static/js/main.57aad2ca.js",
     "static/media/tcpc224.png": "/Portfolio/static/media/tcpc224.6d7b5352f4d2ccb0cc29.png",
     "static/media/page11.png": "/Portfolio/static/media/page11.4f559b688b48b8ebd30b.png",
+    "static/media/olym.png": "/Portfolio/static/media/olym.88d17487c60e328caf2b.png",
     "static/media/ykte-feature-graphic.png": "/Portfolio/static/media/ykte-feature-graphic.01a3fad4b4a535528045.png",
     "static/media/hotel.png": "/Portfolio/static/media/hotel.4d27b01e4a43e665c13c.png",
     "static/media/trading.png": "/Portfolio/static/media/trading.270bf59ce312917be174.png",
@@ -16,10 +17,10 @@
     "static/media/footer_wave.svg": "/Portfolio/static/media/footer_wave.c37fb77960aea3e94246355f1196d18e.svg",
     "static/media/blob-haikei.svg": "/Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.8c0cfc84.css.map": "/Portfolio/static/css/main.8c0cfc84.css.map",
-    "main.10f3d274.js.map": "/Portfolio/static/js/main.10f3d274.js.map"
+    "main.57aad2ca.js.map": "/Portfolio/static/js/main.57aad2ca.js.map"
   },
   "entrypoints": [
     "static/css/main.8c0cfc84.css",
-    "static/js/main.10f3d274.js"
+    "static/js/main.57aad2ca.js"
   ]
 }
