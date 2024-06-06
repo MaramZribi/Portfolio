@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb28ad7e.css",
+    "main.js": "/static/js/main.1502a096.js",
+    "static/media/tcpc224.png": "/static/media/tcpc224.6d7b5352f4d2ccb0cc29.png",
+    "static/media/missouu.png": "/static/media/missouu.722dd6ccac82a25af325.png",
+    "index.html": "/index.html",
+    "static/media/blob-haikei.svg": "/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.cb28ad7e.css.map": "/static/css/main.cb28ad7e.css.map",
+    "main.1502a096.js.map": "/static/js/main.1502a096.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb28ad7e.css",
+    "static/js/main.1502a096.js"
+  ]
+}
