@@ -1,16 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.8c0cfc84.css",
-    "main.js": "/Portfolio/static/js/main.466312f8.js",
+    "main.js": "/Portfolio/static/js/main.1e30e074.js",
     "static/media/tcpc224.png": "/Portfolio/static/media/tcpc224.6d7b5352f4d2ccb0cc29.png",
+    "static/media/page11.png": "/Portfolio/static/media/page11.4f559b688b48b8ebd30b.png",
+    "static/media/ykte-feature-graphic.png": "/Portfolio/static/media/ykte-feature-graphic.01a3fad4b4a535528045.png",
+    "static/media/hotel.png": "/Portfolio/static/media/hotel.4d27b01e4a43e665c13c.png",
+    "static/media/trading.png": "/Portfolio/static/media/trading.270bf59ce312917be174.png",
     "static/media/missouu.png": "/Portfolio/static/media/missouu.722dd6ccac82a25af325.png",
+    "static/media/blog.png": "/Portfolio/static/media/blog.1aebe85677d3e82a4b18.png",
+    "static/media/maramZribiCV2024.pdf": "/Portfolio/static/media/maramZribiCV2024.3468a04f6389be8ee06a.pdf",
+    "static/media/web.png": "/Portfolio/static/media/web.4e17695cf40d9d74c496.png",
+    "static/media/scroll-down.svg": "/Portfolio/static/media/scroll-down.3cee4291b4cfe1171a2b4c493c1085c3.svg",
     "index.html": "/Portfolio/index.html",
+    "static/media/footer_wave.svg": "/Portfolio/static/media/footer_wave.c37fb77960aea3e94246355f1196d18e.svg",
     "static/media/blob-haikei.svg": "/Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.8c0cfc84.css.map": "/Portfolio/static/css/main.8c0cfc84.css.map",
-    "main.466312f8.js.map": "/Portfolio/static/js/main.466312f8.js.map"
+    "main.1e30e074.js.map": "/Portfolio/static/js/main.1e30e074.js.map"
   },
   "entrypoints": [
     "static/css/main.8c0cfc84.css",
-    "static/js/main.466312f8.js"
+    "static/js/main.1e30e074.js"
   ]
 }
