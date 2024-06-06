@@ -1,34 +1,34 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
+    img: `${process.env.PUBLIC_URL}/ykte-feature-graphic.png`,
     title: "TuniTrek",
     description:
-      "a MERN stack booking platform,where users can book guided tours to explore various regions of Tunisia.",
-    tech_stack: ["Mongodb", "ExpressJs", "React ", "Node js", "TailwindCSS"],
+      "a MERN stack booking platform where users can book guided tours to explore various regions of Tunisia.",
+    tech_stack: ["Mongodb", "ExpressJs", "React", "Node js", "TailwindCSS"],
     github_url: "https://github.com/MaramZribi/TuniTrek",
     demo_url: "",
   },
   {
-    img: "https://www.musiqueurbaine.fr/wp-content/uploads/2024/01/samsung-jeux-olypic-paris-2024.jpg",
+    img: "https://www.musiqueurbaine.fr/wp-content/uploads/2024/01/samsung-jeux-olympic-paris-2024.jpg",
     title: "JeuxOlympiques2024",
     description:
-      " Une plateforme web intuitive pour gérer et accéder aux informations des Jeux Olympiques de 2024, facilitant ainsi la planification des déplacements et l'accès aux événements pour les spectateurs, journalistes et organisateurs.",
-    tech_stack: ["Mongodb", "Neo4j", "Redis", "ExpressJs", "React ", "Node js", "TailwindCSS"],
+      "Une plateforme web intuitive pour gérer et accéder aux informations des Jeux Olympiques de 2024, facilitant ainsi la planification des événements.",
+    tech_stack: ["Mongodb", "Neo4j", "Redis", "ExpressJs", "React", "Node js", "TailwindCSS"],
     github_url: "https://github.com/MaramZribi/JeuxOlympiques2024",
     demo_url: "",
   },
   {
-    img: "/hotel.png",
+    img: `${process.env.PUBLIC_URL}/hotel.png`,
     title: "HotelManagementSystem",
     description:
-      " An intuitive hotel management system, featuring a  user interface to optimize the management of reservations, guests, rooms, and staff.",
+      "An intuitive hotel management system, featuring a user interface to optimize the management of reservations, guests, rooms, and staff.",
     tech_stack: ["C#", "ADO.NET", "Microsoft SQL"],
     github_url: "https://github.com/MaramZribi/HotelManagement",
     demo_url: "",
   },
   {
-    img: "/web.png",
+    img: `${process.env.PUBLIC_URL}/web.png`,
     title: "Task Management Project",
     description:
       "A J2EE application to aid project managers in project planning",
@@ -37,7 +37,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/taskapp.png",
+    img: `${process.env.PUBLIC_URL}/taskapp.png`,
     title: "ToDo App",
     description:
       "A robust To-Do List application using Flutter and Firebase, featuring real-time task synchronization across devices.",
@@ -46,7 +46,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/blog.png",
+    img: `${process.env.PUBLIC_URL}/blog.png`,
     title: "Blog",
     description:
       "Implementation of essential functionalities, including user management with different roles and authentication.",
@@ -55,7 +55,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/page11.png",
+    img: `${process.env.PUBLIC_URL}/page11.png`,
     title: "Core Delivery App with Supabase Authentication",
     description:
       "A delivery app focused on the core functionality of order management and user interaction. The app uses Supabase for authentication, ensuring secure and efficient user login and registration.",
@@ -64,7 +64,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/trading.png",
+    img: `${process.env.PUBLIC_URL}/trading.png`,
     title: "Trading app",
     description:
       "Design and development of a trading simulator.",
@@ -72,8 +72,8 @@ export const ProjectList = [
     github_url: "https://github.com/MaramZribi/mProjet",
     demo_url: "",
   },
-
 ];
+
 
 // --------------------------------------- Skills
 
